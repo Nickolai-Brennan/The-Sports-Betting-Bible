@@ -1,167 +1,47 @@
-Here’s the Recommended Folder Structure & Digital Workflow Page that will follow the Startup Toolkit page. This acts as a “command center” guide for organizing your files, spreadsheets, and betting/fantasy logs.
+# Recommended Folder Structure & Digital Workflow
+
+A well-organized digital workspace is critical for managing fantasy sports, betting strategies, and data modeling. Having a clean folder structure ensures you can quickly access projections, track bankrolls, and update models without losing valuable data. Below is a suggested setup.
 
 
 ---
 
-Recommended Folder Structure & Digital Workflow
+## Folder Tree Structure
+### See Content Folder 📂 
+---
 
-Organization is the secret weapon of every successful fantasy player and bettor. Your models, tracking sheets, and notes are only as powerful as your ability to find and use them efficiently. Below is a folder template and workflow system designed for this book’s strategies.
+## Workflow Overview
 
+### **1. Daily Workflow**
+1. **Data Pulls:** Download updated player stats from FanGraphs/Baseball Savant and place them in `03_Data/Raw_Stats/`.
+2. **Processing:** Clean and normalize data in Python/Excel, saving outputs to `03_Data/Processed_Stats/`.
+3. **Fantasy Updates:** Update draft boards or DFS lineups in `01_Fantasy/`.
+4. **Betting Updates:** Log bets and ROI data in `02_Betting/BetLogs/`.
 
 ---
 
-1. Core Folder Setup
-
-Create a master folder on your computer (or cloud drive) called:
-Sports_Strategy_Hub
-
-Inside it, create the following subfolders:
-
-Sports_Strategy_Hub
-│
-├── 01_Fantasy
-│   ├── Draft_Boards
-│   ├── Rankings_Models
-│   ├── Waiver_Wire_Tracking
-│   ├── DFS_Lineups
-│   └── Dynasty_Data
-│
-├── 02_Betting
-│   ├── Bankroll_Tracker
-│   ├── Odds_Logs
-│   ├── Bet_Tickets
-│   └── EV_Calculations
-│
-├── 03_Data_Sources
-│   ├── FanGraphs_Exports
-│   ├── Baseball_Savant_Statcast
-│   ├── API_Data
-│   └── Kaggle_Datasets
-│
-├── 04_Models
-│   ├── Excel_Models
-│   ├── Python_Scripts
-│   ├── Machine_Learning
-│   └── Simulations
-│
-├── 05_Visuals
-│   ├── Dashboards
-│   ├── Charts
-│   └── Reports
-│
-└── 06_Notes
-    ├── Weekly_Insights
-    ├── Betting_Tips
-    └── Lessons_Learned
-
+### **2. Weekly Workflow**
+- **Update Models:** Run your machine learning or projection models (`04_Models/`) and validate results.
+- **Visualize:** Refresh Power BI/Looker dashboards in `05_Visuals/`.
+- **Research Notes:** Document insights or trends in `06_Docs/Notes/`.
 
 ---
 
-2. Spreadsheet Essentials
-
-You’ll need at least 3 key spreadsheets:
-
-1. Fantasy Draft Sheet
-
-Player rankings, projections, and category weights.
-
-Tabs for tiered boards, auction values, and position scarcity.
-
-
-
-2. Betting Bankroll & ROI Tracker
-
-Log every bet (date, type, odds, stake, result, CLV).
-
-Auto-calculate ROI and EV over time.
-
-
-
-3. Model Outputs & Testing Sheet
-
-Store projections from Python/Excel models.
-
-Track how well predictions matched outcomes.
-
-
-
-
+### **3. Backup Strategy**
+- Keep a weekly backup of all critical spreadsheets and models in `07_Backups/Weekly/`.
+- Create a monthly compressed archive (zip) for long-term storage in `07_Backups/Monthly/`.
 
 ---
 
-3. Digital Workflow Example
-
-Morning Routine (10-30 minutes):
-
-1. Pull updated stats from FanGraphs/Baseball Savant.
-
-
-2. Update DFS projections in your DFS_Lineups folder.
-
-
-3. Check odds movement logs in Betting > Odds_Logs.
-
-
-
-Weekly Workflow:
-
-Update season-long fantasy rankings every Sunday.
-
-Run EV calculations and simulations for upcoming betting markets.
-
-Archive last week’s DFS results into DFS_Lineups > Results.
-
-
-Monthly Workflow:
-
-Backup your entire Sports_Strategy_Hub folder to the cloud (Google Drive or Dropbox).
-
-Review betting ROI trends and identify leaks or edges.
-
-
+## Recommended Tools for Workflow
+- **Version Control:** GitHub (push scripts and models to repositories).
+- **Automation:** Zapier or Python schedulers for daily data pulls.
+- **Visualization:** Looker Studio or Tableau for dashboards.
+- **Tracking:** Google Sheets for quick logs, Excel for deep modeling.
 
 ---
 
-4. Cloud & Automation Setup
-
-Cloud Sync: Use Google Drive or Dropbox to sync your entire folder system.
-
-GitHub (Optional): Store Python scripts and version your models.
-
-Zapier or IFTTT: Automate tasks like saving CSVs from APIs or pulling odds snapshots.
-
-
-
----
-
-5. Bonus: Bookmarking Key Tools
-
-Create a browser folder called “Sports Toolkit” and bookmark:
-
-FanGraphs Leaderboards
-
-Baseball Savant
-
-FantasyPros Consensus Rankings
-
-Action Network Live Odds
-
-Unabated EV Calculators
-
-Google Sheets Master Tracker
-
-
-
----
-
-Would You Like Me to Create a Visual Diagram (Workflow Map)?
-
-I can create a one-page infographic showing:
-
-The folder structure visually.
-
-A flowchart of “Daily > Weekly > Monthly” tasks.
-
-
-This would make it a quick reference tool for the reader.
-
+# Quick Setup Checklist
+1. Create the folder structure above.
+2. Link your Python or R scripts to the `03_Data` folder for smooth ETL (Extract-Transform-Load) flows.
+3. Connect your dashboards (Looker/Tableau) to `03_Data/Processed_Stats/` for auto-refreshes.
+4. Set reminders for weekly backups and model validation.
