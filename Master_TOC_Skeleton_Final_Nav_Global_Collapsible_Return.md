@@ -1,0 +1,308 @@
+# Master Table of Contents (Skeleton Document with Navigation)
+
+**Quick Navigation:**  
+[Section 0 – Super Introduction](#section-0--super-introduction-the-world-of-fantasy-sports-and-betting) | 
+[Front-Matter](#front-matter) | 
+[Part 1 – Fantasy Sports Mastery](#part-1--fantasy-sports-mastery) | 
+[Part 2 – Sports Betting Landscape](#part-2--sports-betting-landscape) | 
+[Part 3 – Bankroll & Personal Strategy](#part-3--bankroll--personal-strategy) | 
+[Part 4 – Modeling & Analytics](#part-4--modeling--analytics) | 
+[Part 5 – Resources, Tools & Automation](#part-5--resources-tools--automation) | 
+[Part 6 – Capstone Projects](#part-6--capstone-projects) | 
+[Part 7 – Appendices & Add-Ons](#part-7--appendices--add-ons)
+
+---
+# Master Table of Contents (Skeleton Document)
+
+<details><summary>Section 0 – Super Introduction: The World of Fantasy Sports and Betting</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### 0.1 – Welcome to the New Era of Sports Strategy
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.2 – Fantasy Sports at a Glance
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.3 – Sports Betting in Plain English
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.4 – The Shared Language of Winning
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.5 – Beginner’s Crash Course – Odds and Points
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.6 – Building Your Foundation
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.7 – Bankroll & Budgeting Basics
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.8 – The Crossover Mindset
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.9 – The 5 Biggest Mistakes Beginners Make
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.10 – Why This Book Will Be Your Edge
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 0.11 – What’s Next?
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+</details>
+<details><summary>Front-Matter</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### A.1 – Software Startup Toolkit
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### A.2 – Recommended Folder Structure & Workflow
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+</details>
+<details><summary>Part 1 – Fantasy Sports Mastery</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### 1.0 – Introduction to Fantasy Sports
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.1 – What Are Fantasy Sports?
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.2 – Fantasy Sports Formats
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.3 – Prepping for Your League
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.4 – Draft-Day Strategy & Tactics
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.5 – Building a Custom Ranking Model
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.6 – Finding Leagues & Platforms
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.7 – Draft Execution & Live Tools
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.8 – Advanced Draft Strategies
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.9 – In-Season Management
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.10 – Multi-Season & Dynasty Leagues
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.11 – The Commissioner’s Role (Deep Dive)
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.12 – Section 1 Conclusion
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 1.A – Appendix (Fantasy Sports)
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+</details>
+<details><summary>Part 2 – Sports Betting Landscape</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### 2.0 – Introduction to Sports Betting
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.1 – Understanding Betting Odds & Types of Bets
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.2 – Positive Expected Value (+EV) Betting
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.3 – Market Makers & Sharp Lines
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.4 – Quantifying Your Edge
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.5 – Middle Betting & Arbitrage Opportunities
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.6 – Partial Game & Derivative Markets
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.7 – Advanced Betting Types
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.8 – The Sharp Bettor’s Mentality
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.9 – Section 2 Conclusion
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 2.A – Appendix (Sports Betting)
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+</details>
+<details><summary>Part 3 – Bankroll & Personal Strategy</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### 3.0 – Personal Plan of Attack
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 3.1 – Bankroll Growth & Recovery Framework
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 3.2 – Time vs. Volume Matrix
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 3.3 – Gambler Guidelines
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 3.4 – Weekly & Monthly Planner
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 3.5 – Section 3 Conclusion
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+</details>
+<details><summary>Part 4 – Modeling & Analytics</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### 4.0 – Introduction: Why Models Win
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.1 – Modeling Basics
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.2 – Essential Data Sources
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.3 – Key Metrics
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.4 – Building Your First Model (Excel/Sheets)
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.5 – Machine Learning for Sports
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.6 – Fantasy Value Models
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.7 – Sports Betting Models
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.8 – Monte Carlo Simulations
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.9 – Scaling & Automation
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.10 – Advanced Modeling Tips
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 4.11 – Section 4 Conclusion
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+</details>
+<details><summary>Part 5 – Resources, Tools & Automation</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### 5.0 – Introduction: Building a Complete Edge
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.1 – Building Daily Data Pipelines
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.2 – Automating Model Refresh
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.3 – Visualization and Reporting
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.4 – Real-Time Alerts & Betting Bots
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.5 – Free Fantasy Sports Tools
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.6 – Free Betting Resources
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.7 – Free Modeling Tools
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.8 – Premium Fantasy Sports Tools
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.9 – Premium Betting Resources
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.10 – Advanced Data & Modeling Platforms
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.11 – Hybrid Tools (Free/Paid)
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.12 – Best Workflow Setup (Step-by-Step Daily Routine)
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.13 – Case Studies
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.14 – Common Pitfalls (Data & Automation)
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.15 – Key Takeaways
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 5.16 – Section 5 Conclusion
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+</details>
+<details><summary>Part 6 – Capstone Projects</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### 6.0 – Fantasy Sports Capstones
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 6.1 – Sports Betting Capstones
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+</details>
+<details><summary>Part 7 – Appendices & Add-Ons</summary>
+[Back to Top](#master-table-of-contents-skeleton-document)
+### 7.1 – Glossary
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 7.2 – Index
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 7.3 – Tools & Sites Cheat Sheet
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### 7.4 – Interactive & Printable Content
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+
+---
+
+## Later Update Sections (Placeholders)
+[Back to Top](#master-table-of-contents-skeleton-document)
+### Real-World Betting Examples – Live betting case studies
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### Seasonal & Sport-Specific Approaches – Adjusting for MLB, NBA, NFL, NHL
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### Advanced Modeling Tips – Excel and regression tricks
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### Advanced Betting Strategies – Arbitrage, middling, bonus exploits
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+### Interactive & Printable Content – Planners, ROI trackers, DFS checklists
+[Return to Global TOC](#master-table-of-contents-skeleton-document-with-navigation)
+_Content Coming Soon_
+</details>
