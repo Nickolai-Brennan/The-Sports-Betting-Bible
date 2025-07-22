@@ -1,4 +1,4 @@
-# Glossary Part 3 – Fantasy Sports Metrics
+# Glossary Part – Fantasy Sports Metrics
 
 ---
 
