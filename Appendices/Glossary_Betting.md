@@ -1,4 +1,4 @@
-# Glossary Part 2 – Betting-Specific Formulas and Metrics
+# Glossary – Betting Specific Formulas and Metrics
 
 ---
 
