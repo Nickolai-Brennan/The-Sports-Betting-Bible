@@ -318,3 +318,29 @@ The percentage chance of a team winning at any point in a game.
 
 **Z-Score**  
 A statistical measure of how far a player’s stat is above or below the league average, used in custom ranking models.
+
+
+# Section 1.3 – Types of Fantasy Sports
+
+## 🔍 Index
+
+* [Core Fantasy Formats](#core-fantasy-formats)
+* [Popular Fantasy Sports](#popular-fantasy-sports-and-their-styles)
+* [Match Your Style](#which-format-matches-your-style)
+* [Scoring Systems](#scoring-systems-the-hidden-engine)
+* [Glossary](#glossary-of-key-terms)
+
+## 📚 Glossary of Key Terms
+
+* **Redraft:** A format where all managers draft a new team each season.
+* **Keeper:** A format allowing managers to retain select players from the previous season.
+* **Dynasty:** A long-term league format with full roster carryover year-to-year.
+* **Best Ball:** A draft-only format where your highest-scoring players are automatically used.
+* **DFS (Daily Fantasy Sports):** Short-term contests typically with salary caps and daily payouts.
+* **Guillotine/Survivor:** Formats where the lowest-scoring team is eliminated each week.
+* **FPL:** Fantasy Premier League, the most popular fantasy soccer platform.
+* **Roto (Rotisserie):** A scoring system that ranks teams based on category totals.
+* **Points-Based Scoring:** Fantasy format where stats convert into direct point values.
+* **Head-to-Head:** Matchup-style format where teams compete weekly in stats or points.
+
+---
