@@ -1,4 +1,4 @@
-# Section 7 – 100 Deep Dive Questions for Sports Modeling & Strategy 🔍
+# The 💯 Questions for Sports Modeling, Betting, and Fantasy Strategy 🔍
 
 ## 💡 Why Questions Matter
 
