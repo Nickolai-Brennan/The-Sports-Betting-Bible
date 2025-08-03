@@ -1,4 +1,4 @@
-# The 💯 Questions for Sports Modeling, Betting, and Fantasy Strategy 🔍
+# The 💯 Question Masterclass 🔍
 
 ## 💡 Why Questions Matter
 
