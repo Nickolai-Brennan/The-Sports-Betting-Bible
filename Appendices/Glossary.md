@@ -344,3 +344,40 @@ A statistical measure of how far a player’s stat is above or below the league 
 * **Head-to-Head:** Matchup-style format where teams compete weekly in stats or points.
 
 ---
+Here is a list of glossary terms based on the content in Section 1.2 – *League Types & How They Change the Game*. These terms are pulled from key concepts, formats, and fantasy-specific language used throughout the section:
+
+---
+
+### 📘 Fantasy League Glossary – Section 1.2
+
+| **Term**                | **Definition**                                                                                       |
+| ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Redraft League**      | A seasonal league where all teams start fresh with a new draft each year.                            |
+| **Dynasty League**      | A long-term format where managers retain most or all players across seasons.                         |
+| **Keeper League**       | A hybrid format where a few players are retained from year to year.                                  |
+| **Head-to-Head (H2H)**  | Format where teams compete weekly in matchups, either by categories or points.                       |
+| **Rotisserie (Roto)**   | Scoring system based on cumulative season stats ranked across all teams.                             |
+| **Points League**       | Format where each stat has a fixed point value, and total score determines outcome.                  |
+| **Best Ball**           | Draft-only format where the platform sets your optimal lineup automatically each week.               |
+| **Superflex**           | League format that allows starting a QB in a flex position.                                          |
+| **2QB League**          | Format where two quarterbacks must be started each week.                                             |
+| **IDP**                 | “Individual Defensive Player”; leagues where defensive players are rostered individually.            |
+| **Streaming**           | Weekly tactic of adding players based on matchup advantage or opportunity.                           |
+| **Waiver Wire**         | Pool of unrostered players available for pickup during the season.                                   |
+| **FAAB**                | Free Agent Acquisition Budget; a system to bid on waiver players using fake currency.                |
+| **Keeper Cost**         | The draft round or auction value required to retain a player in keeper formats.                      |
+| **Positional Scarcity** | Concept that certain positions (e.g., QB in Superflex) are more limited and therefore more valuable. |
+| **Stacking**            | Drafting players on the same team (e.g., QB + WR) to amplify scoring upside.                         |
+| **Streaming**           | Rotating players weekly, especially at DST, TE, or FLEX positions.                                   |
+| **Devy League**         | Dynasty leagues where managers can draft NCAA players before they go pro.                            |
+| **Breakout Player**     | A player expected to significantly exceed previous performance.                                      |
+| **Anchor Players**      | Core long-term assets around which a fantasy team is built.                                          |
+| **Contract League**     | Dynasty or keeper league format using salaries and player contract lengths.                          |
+| **Rookie Draft**        | Annual draft of incoming first-year players, common in dynasty formats.                              |
+| **Category League**     | League where success is measured by winning specific statistical categories.                         |
+| **Volume Player**       | An athlete who earns fantasy value through high usage or play frequency.                             |
+| **Spike Week**          | A game where a player significantly exceeds their average fantasy performance.                       |
+
+---
+
+Would you like these added to a glossary section in the Markdown file or saved in a separate glossary document for inclusion later?
