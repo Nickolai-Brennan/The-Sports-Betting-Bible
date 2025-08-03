@@ -1,3 +1,65 @@
+# Formulas
+---
+
+✅ Formulas Found in Section 1.3 – Types of Fantasy Sports and Formats
+
+🔢 1.3.6 – Draft Planning by Format
+
+Formula: Redraft League Value Equation
+
+Team Value = (Top 3 Picks × 1.5) + (Breakout Hits × 2.0) + Waiver Wins × 3.0
+
+
+Formula: Dynasty Score Model
+
+Dynasty Score = (Age Factor × 1.5) + (Expected WAR × 2) + (Contract Horizon)
+
+
+Formula: Keeper Cost Matrix Table
+
+(Structured as a grid, not a math formula, but uses draft round offsets)
+
+
+Formula: Streaming Boost (H2H)
+
+Matchup Edge = (Games Played × Efficiency) × Opponent Weakness Multiplier
+
+
+Formula: Roto Category Target Table
+
+Targets presented in table (HR, SB, ERA), not in equation form
+
+
+Formula: Sample Points League (Football)
+
+Fantasy Points = (Yards × 0.04) + (TD × 6) – (INT × 2)
+
+
+Formula: Best Ball ROI
+
+Best Ball ROI = (Spike Weeks × Positional Replacement Value) / Draft Capital
+
+
+Formula: Auction Value Equation
+
+Value = (Projected Points – Baseline) × $/Point Multiplier
+
+
+
+---
+
+✅ Formulas Found in Section 1.2 – League Types & How They Change the Game
+
+📌 No formulas explicitly written in Section 1.2.
+This section focuses on league structures, strategic tips, and real-life examples, but does not include numeric models or equations.
+
+
+---
+
+Would you like these formulas exported to a dedicated Markdown sheet or embedded into a larger reference list by section?
+
+
+
 
 📐 Formula Reference – Section 1.4: Fundamentals of Fantasy Strategy
 
