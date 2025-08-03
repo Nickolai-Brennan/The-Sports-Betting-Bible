@@ -1,5 +1,4 @@
-Here’s a full lesson, written as if I were walking you through this in a live class, screen-sharing a Google Sheet, and explaining everything in real time. This will teach you exactly how to build your own fantasy baseball hitter + pitcher ranking model from scratch.
-
+# ⚒️ Workshop 🪛 
 
 ---
 
