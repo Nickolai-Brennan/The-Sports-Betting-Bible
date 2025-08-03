@@ -6,8 +6,9 @@
 🔢 1.3.6 – Draft Planning by Format
 
 Formula: Redraft League Value Equation
-
+```
 Team Value = (Top 3 Picks × 1.5) + (Breakout Hits × 2.0) + Waiver Wins × 3.0
+```
 
 
 Formula: Dynasty Score Model
@@ -47,18 +48,6 @@ Value = (Projected Points – Baseline) × $/Point Multiplier
 
 
 ---
-
-✅ Formulas Found in Section 1.2 – League Types & How They Change the Game
-
-📌 No formulas explicitly written in Section 1.2.
-This section focuses on league structures, strategic tips, and real-life examples, but does not include numeric models or equations.
-
-
----
-
-Would you like these formulas exported to a dedicated Markdown sheet or embedded into a larger reference list by section?
-
-
 
 
 📐 Formula Reference – Section 1.4: Fundamentals of Fantasy Strategy
