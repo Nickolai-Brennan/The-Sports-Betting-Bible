@@ -1,0 +1,27 @@
+Cell,Label,Formula
+A1,Player Name,
+B1,OPS,
+C1,HR,
+D1,Net SB,
+E1,Barrel%,
+F1,xOBP,
+G1,TB-HR,
+H1,RunImpact,
+I1,Z_OPS,"=STANDARDIZE(B2, LeagueAvg_OPS, StdDev_OPS)"
+J1,Z_HR,"=STANDARDIZE(C2, LeagueAvg_HR, StdDev_HR)"
+K1,Z_SB,"=STANDARDIZE(D2, LeagueAvg_SB, StdDev_SB)"
+L1,Z_Barrel,"=STANDARDIZE(E2, LeagueAvg_Barrel, StdDev_Barrel)"
+M1,Z_xOBP,"=STANDARDIZE(F2, LeagueAvg_xOBP, StdDev_xOBP)"
+N1,Z_TBHR,"=STANDARDIZE(G2, LeagueAvg_TBHR, StdDev_TBHR)"
+O1,Z_RunImp,"=STANDARDIZE(H2, LeagueAvg_RI, StdDev_RI)"
+P1,Weighted OPS,=I2*0.2
+Q1,Weighted HR,=J2*0.15
+R1,Weighted SB,=K2*0.1
+S1,Weighted Barrel%,=L2*0.1
+T1,Weighted xOBP,=M2*0.15
+U1,Weighted TB-HR,=N2*0.15
+V1,Weighted RunImpact,=O2*0.15
+W1,Base Score,=SUM(P2:V2)
+X1,Context Modifiers,=(Prospect_Bonus + Role_Lock + Age_Adjust + Trade_Risk + Injury_Penalty)
+Y1,Role Score,=Role_Weight * LI
+Z1,Final Score,=(W2*0.5)+(X2*0.25)+(Y2*0.25)

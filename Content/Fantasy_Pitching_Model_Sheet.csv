@@ -1,0 +1,27 @@
+Cell,Label,Formula
+A1,Player Name,
+B1,xFIP,
+C1,K/BB,
+D1,CSW%,
+E1,WHIP,
+F1,SVH3,
+G1,QA4,
+H1,wOBAA,
+I1,Z_xFIP,"=STANDARDIZE(B2, LeagueAvg_xFIP, StdDev_xFIP)"
+J1,Z_KBB,"=STANDARDIZE(C2, LeagueAvg_KBB, StdDev_KBB)"
+K1,Z_CSW,"=STANDARDIZE(D2, LeagueAvg_CSW, StdDev_CSW)"
+L1,Z_WHIP,"=STANDARDIZE(E2, LeagueAvg_WHIP, StdDev_WHIP)"
+M1,Z_SVH3,"=STANDARDIZE(F2, LeagueAvg_SVH3, StdDev_SVH3)"
+N1,Z_QA4,"=STANDARDIZE(G2, LeagueAvg_QA4, StdDev_QA4)"
+O1,Z_wOBAA,"=STANDARDIZE(H2, LeagueAvg_wOBAA, StdDev_wOBAA)"
+P1,Weighted xFIP,=I2*0.15
+Q1,Weighted K/BB,=J2*0.15
+R1,Weighted CSW%,=K2*0.15
+S1,Weighted WHIP,=L2*0.10
+T1,Weighted SVH3,=M2*0.15
+U1,Weighted QA4,=N2*0.15
+V1,Weighted wOBAA,=O2*0.15
+W1,Base Score,=SUM(P2:V2)
+X1,Context Modifiers,=(Prospect_Bonus + Role_Lock + Age_Adjust + Trade_Risk + Injury_Penalty)
+Y1,Role Score,=Role_Weight * LI
+Z1,Final Score,=(W2*0.5)+(X2*0.25)+(Y2*0.25)
