@@ -90,5 +90,27 @@
 | **Spike Week**          | A game where a player significantly exceeds their average fantasy performance.                       |
 
 ---
+## 📚 1.3 Glossary – Formats, Scoring, and Strategy
 
-Would you like these added to a glossary section in the Markdown file or saved in a separate glossary document for inclusion later?
+| Term                      | Definition                                                                 |
+|---------------------------|----------------------------------------------------------------------------|
+| **Redraft**               | Seasonal league format where teams are reset and redrafted every year.    |
+| **Keeper League**         | A format where a limited number of players are retained for next season.  |
+| **Dynasty League**        | Long-term format where full rosters are carried over year to year.        |
+| **Best Ball**             | Draft-only format; best possible lineup is set automatically each week.   |
+| **DFS (Daily Fantasy)**   | Short-term, salary-based contests with daily or weekly payout cycles.     |
+| **Guillotine League**     | Format where the lowest-scoring team is eliminated each week.             |
+| **Roto (Rotisserie)**     | Cumulative scoring format based on category ranks (e.g., HRs, ERA, SBs).  |
+| **Points League**         | Players earn fantasy points per action (e.g., 1 pt per 10 rushing yards). |
+| **H2H (Head-to-Head)**    | Weekly matchups between teams based on points or categories.              |
+| **Superflex**             | A roster spot that can include a second QB (or RB/WR/TE).                 |
+| **VORP**                  | Value Over Replacement Player; evaluates player surplus vs. average.      |
+| **ADP**                   | Average Draft Position across multiple platforms (Yahoo, ESPN, etc.).     |
+| **Positional Scarcity**   | Concept of prioritizing rare positions earlier in drafts.                 |
+| **Stacking**              | Drafting players on the same team to amplify correlated upside.           |
+| **Streaming**             | Adding/dropping players weekly based on matchups and volume.              |
+| **Roster Construction**   | The overall strategy used to balance upside, depth, and positional needs. |
+| **Contract League**       | Dynasty variant where players have salary values and time-based contracts.|
+| **Tier-Based Drafting**   | Grouping players into performance tiers rather than linear ranks.         |
+| **Breakout Candidate**    | A player expected to significantly outperform previous performance.       |
+| **Rookie Hit Rate**       | Statistical likelihood of rookies becoming fantasy-relevant long term.    |
