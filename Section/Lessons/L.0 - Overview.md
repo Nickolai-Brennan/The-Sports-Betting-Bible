@@ -1,7 +1,16 @@
 ## Lessons Overview: From Reading to Mastery
 ```
-This book was designed not just to teach concepts—but to help you build and apply them. The Lessons section provides hands-on, guided exercises that mirror real-world fantasy sports tasks, tools, and strategies.
+This book was designed
+not just to teach concepts
+but to help you
+build and apply them.
 
+The Lessons section provides
+hands-on, guided exercises
+that mirror real-world
+fantasy sports tasks,
+tools, and strategies.
+``` 
 Each lesson connects directly to a major section of the book, offering a structured walkthrough you can complete using spreadsheets, projection data, and league-specific rules.
 
 These lessons are not optional extras. They are your lab—where the strategy becomes skill.
