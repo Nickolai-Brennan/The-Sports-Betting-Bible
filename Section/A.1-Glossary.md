@@ -88,3 +88,51 @@
 | **Tier-Based Drafting**   | Grouping players into performance tiers rather than linear ranks.         |
 | **Breakout Candidate**    | A player expected to significantly outperform previous performance.       |
 | **Rookie Hit Rate**       | Statistical likelihood of rookies becoming fantasy-relevant long term.    |
+---
+
+### 🧠 Section 1.4 – Fundamentals of Fantasy Strategy
+
+| Term                   | Definition                                                                 |
+|------------------------|----------------------------------------------------------------------------|
+| **VORP**               | Value Over Replacement Player – measures a player's value above a baseline option. |
+| **FPR**                | Fantasy Points over Replacement – similar to VORP, specific to projected fantasy scoring. |
+| **EV (Expected Value)**| Anticipated gain or loss from a decision or pickup, used to evaluate risk/reward. |
+| **Tier-Based Drafting**| Grouping players of similar value to prevent reaching in drafts.           |
+| **Mock Drafting**      | Practice drafts to simulate different draft outcomes and test strategies.  |
+| **Draft Psychology**   | Mental factors and behavioral patterns that affect decisions during drafting. |
+| **Streaming**          | Weekly player pickups based on short-term opportunity (e.g., matchups, injuries). |
+| **Handcuffing**        | Drafting a backup to a starting player, typically used with RBs in football. |
+| **Roster Archetype**   | The overall structure or theme of a fantasy team build (e.g., balanced, stars/scrubs). |
+
+---
+
+### 🧮 Section 1.5 – Building a Custom Ranking Model
+
+| Term                   | Definition                                                                 |
+|------------------------|----------------------------------------------------------------------------|
+| **Projection Table**   | Dataset containing player stat projections used as the base of the model. |
+| **Scoring Weights**    | Point values assigned to each stat, based on league rules.                |
+| **Baseline Replacement**| Value of the lowest acceptable starter at each position.                 |
+| **Positional Scarcity**| Value increase of players in thin positional groups.                      |
+| **Adjusted Projections**| Modified projections to account for team context or regression.           |
+| **Tiers**              | Groupings of players based on relative projected output.                  |
+| **Ranking Dashboard**  | Tool or sheet showing sortable, calculated rankings for draft or waiver use. |
+| **Custom Model**       | User-built ranking system tailored to specific scoring and league setup.  |
+
+---
+
+### 🌐 Section 1.6 – Finding Leagues & Platforms
+
+| Term                   | Definition                                                                 |
+|------------------------|----------------------------------------------------------------------------|
+| **Public League**      | Open-to-join fantasy league hosted by major platforms.                    |
+| **Private League**     | League with invite-only access, typically among friends or communities.   |
+| **Free League**        | League without monetary entry or prize.                                   |
+| **Paid League**        | League with an entry fee and potential monetary prize.                    |
+| **Platform Tools**     | Features built into fantasy platforms like draft rooms, waivers, and trades. |
+| **Commissioner Tools** | Administrative features allowing rule customizations and roster control.  |
+| **DFS Platform**       | Site offering Daily Fantasy Sports contests (e.g., DraftKings, FanDuel).  |
+| **Best Ball Platform** | Platform that auto-starts your optimal lineup weekly after the draft.     |
+| **Scoring Nuance**     | Specific rule settings affecting fantasy outcomes (e.g., bonuses, penalties). |
+| **Bracket / Pool / Survivor**| Alternative fantasy game styles based on elimination or predictions. |
+
