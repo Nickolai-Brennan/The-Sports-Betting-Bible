@@ -15,11 +15,11 @@ These lessons are not optional extras. They are your lab—where the strategy be
 
 Lesson Code	Title	Related Section	Key Outcomes
 
-L.1	Build Your Own Ranking Model	1.5	Create custom ranks using stats and scoring rules
-L.2	Draft Day Simulation	1.4	Run multiple draft scenarios and test tier-based prep
-L.3	Weekly Lineup Optimization	1.4.11	Use projections and matchups to maximize weekly EV
-L.4	Value Tracking & Waiver ROI	1.4.9	Measure impact of waiver moves using data-driven ROI
-L.5	Custom League Scoring Converter	1.3.5	Adapt rankings to any scoring system (points/roto/etc)
+- L.1	Build Your Own Ranking Model	1.5	Create custom ranks using stats and scoring rules
+- L.2	Draft Day Simulation	1.4	Run multiple draft scenarios and test tier-based prep
+- L.3	Weekly Lineup Optimization	1.4.11	Use projections and matchups to maximize weekly EV
+- L.4	Value Tracking & Waiver ROI	1.4.9	Measure impact of waiver moves using data-driven ROI
+- L.5	Custom League Scoring Converter	1.3.5	Adapt rankings to any scoring system (points/roto/etc)
 
 
 
