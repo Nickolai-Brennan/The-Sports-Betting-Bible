@@ -1,6 +1,4 @@
----
-
-🎓 Lessons Overview: From Reading to Mastery
+## Lessons Overview: From Reading to Mastery
 ```
 This book was designed not just to teach concepts—but to help you build and apply them. The Lessons section provides hands-on, guided exercises that mirror real-world fantasy sports tasks, tools, and strategies.
 
@@ -11,7 +9,7 @@ These lessons are not optional extras. They are your lab—where the strategy be
 
 ---
 
-📘 What You'll Learn
+What You'll Learn
 
 Lesson Code	Title	Related Section	Key Outcomes
 
@@ -30,6 +28,5 @@ Lesson Code	Title	Related Section	Key Outcomes
 
 
 The more you engage with these lessons, the more confident and independent your strategy will become. Turn knowledge into leverage.
-
 
 
