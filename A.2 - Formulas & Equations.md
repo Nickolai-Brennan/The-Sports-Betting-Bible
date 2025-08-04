@@ -1,5 +1,4 @@
-
-# ✅ Formulas by Section (1.0–1.6)
+# ✅ Formulas
 
 ---
 
