@@ -1,62 +1,36 @@
 # Glossary of Terms
 
+# 📘 Section 1.0 – Glossary of Fantasy Sports Terms
 
-## 📘 Section 1.0 – Glossary of Fantasy Sports Terms
-
-**Redraft League** – A fantasy league that resets each season with a brand-new draft.
-
-**Dynasty League** – A long-term league format where most or all players are retained year-to-year.
-
-**Keeper League** – A format allowing teams to retain a limited number of players from one season to the next.
-
-**Waiver Wire** – The pool of unrostered players available to be picked up during the season.
-
-**FAAB (Free Agent Acquisition Budget)** – A bidding system used to acquire players from the waiver wire.
-
-**ADP (Average Draft Position)** – The average spot a player is selected across many drafts.
-
-**Streaming** – The tactic of adding and dropping players frequently based on weekly matchups.
-
-**Superflex** – A fantasy position slot that allows a quarterback to be started in the flex position.
-
-**IDP (Individual Defensive Player)** – A league format that includes defensive players in the roster.
-
-**Spike Week** – A game in which a player far exceeds their usual fantasy output.
-
-**Stacking** – Drafting players on the same real-life team to capitalize on correlated scoring.
-
-**Volume Player** – A player who gains fantasy value from consistent usage or touches.
+| Term                     | Definition                                                                 |
+|--------------------------|----------------------------------------------------------------------------|
+| **Redraft League**       | A league that resets every season with a new draft.                        |
+| **Dynasty League**       | Long-term format retaining most or all players year-to-year.               |
+| **Keeper League**        | Teams keep a limited number of players into the next season.               |
+| **Waiver Wire**          | Pool of available free agents during the season.                           |
+| **FAAB**                 | Free Agent Acquisition Budget – blind bidding system for waivers.          |
+| **ADP**                  | Average Draft Position across many leagues and platforms.                  |
+| **Streaming**            | Weekly pickup/drop strategy based on favorable matchups.                   |
+| **Superflex**            | Flex position that allows QBs in addition to RB/WR/TE.                     |
+| **IDP**                  | Individual Defensive Player – leagues that roster defenders.               |
 
 ---
+## 🎮 Section 1.1 – Gameplay & Strategy Terms
 
-## 📘 Section 1.1 – Glossary: Fantasy Gameplay & Strategy
-
-**Floor** – The minimum expected fantasy production of a player.
-
-**Ceiling** – The maximum potential output of a player in a given week.
-
-**Start/Sit Decisions** – Weekly lineup choices between players based on matchups and trends.
-
-**Roster Depth** – The strength and reliability of backup players on a fantasy team.
-
-**Matchups** – The defensive or opposing player/team context affecting a player's potential performance.
-
-**Lineup Optimizer** – A tool or model that identifies the best starting combination of players.
-
-**Roster Churn** – The rate at which managers add/drop players to optimize for weekly gains.
-
-**Positional Scarcity** – The concept that some positions have fewer valuable players, increasing their worth.
-
-**Trade Window** – The period when strategic player trades are most effective based on performance and schedules.
-
-**Regression** – The statistical tendency of a player's performance to return to an expected average.
-
-**Buy Low / Sell High** – A trading strategy that exploits changes in player perception and performance.
-
-**Start-Up Draft** – The first draft held in a new dynasty league that builds the initial full roster.
-
----
-
+| Term                   | Definition                                                                 |
+|------------------------|----------------------------------------------------------------------------|
+| **Floor**              | The minimum expected fantasy production of a player.                       |
+| **Ceiling**            | The maximum potential output of a player in a given week.                  |
+| **Start/Sit Decisions**| Weekly lineup choices between players based on matchups and trends.        |
+| **Roster Depth**       | Strength and reliability of backup players on a fantasy team.              |
+| **Matchups**           | Defensive or opposing team context affecting a player's performance.       |
+| **Lineup Optimizer**   | Tool or model that identifies the best starting combination of players.    |
+| **Roster Churn**       | Rate of player adds/drops to optimize for weekly matchups.                 |
+| **Positional Scarcity**| Fewer elite players at a position increases that position’s fantasy value. |
+| **Trade Window**       | Period when strategic trades are most effective based on trends/schedule.  |
+| **Regression**         | Tendency for a player’s stats to return to their long-term average.        |
+| **Buy Low / Sell High**| Strategy exploiting over/undervalued players based on recent performance.  |
+| **Start-Up Draft**     | First-ever draft in a dynasty league to build initial full rosters.        |
 ---
 
 ### 📘 Fantasy League Glossary – Section 1.2
