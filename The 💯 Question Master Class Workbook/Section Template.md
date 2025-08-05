@@ -1,3 +1,5 @@
+## Phase 1
+
 ✅ Structured intro, formulas, examples, and visual elements
 ✅ Interactive worksheet section
 ✅ Embedded call-to-action
@@ -280,3 +282,24 @@ I can also:
 
 Let me know how you want to launch the first few posts.
 
+## Phase 2
+
+- 🔗 Embed all internal links (TOC, related questions, glossary terms)
+
+- 🏷️ Add SEO keyword tags (title, headings, tables, alt text)
+
+- 🔖 Insert anchor bookmarks for in-page jumps and navigation
+
+- Insert assets and images properly tagged and prepped for seo and indexing
+
+
+
+
+---
+
+## Phase 3 - Advanced HTML For WordPress 
+
+--- 
+
+
+## Phase 4 - PDF for Kindle 
