@@ -1,13 +1,7 @@
-Absolutely — here is the full, complete markdown template for your 100 Question Masterclass R&D Content Blog, now including:
-
 ✅ Structured intro, formulas, examples, and visual elements
-
 ✅ Interactive worksheet section
-
 ✅ Embedded call-to-action
-
 ✅ SEO metadata, research formatting, and data modeling flow
-
 ✅ Ready for copy-paste into GitHub, WordPress, or Substack
 
 
@@ -15,6 +9,7 @@ Absolutely — here is the full, complete markdown template for your 100 Questio
 ---
 
 ---
+```
 title: "💯 Question X – [Insert Question Here]"
 slug: question-x-keywords
 date: 2025-08-05
@@ -23,6 +18,8 @@ project: "Strik3Zone – The Sports Gaming Codex"
 tags: [sports analytics, fantasy baseball, data science, sabermetrics, question-x]
 categories: [Masterclass, R&D, Stats]
 status: "Published"
+
+```
 ---
 
 # 💯 Question X – [Insert Full Question Title Here]
